@@ -1,0 +1,24 @@
+[
+    {
+      "label": "passed",
+      "value": 7253,
+      "bg":"rgba(18, 82, 18, 0.8)"
+    },
+    {
+        "label": "not available ",
+        "value": 366,
+        "bg":"rgba(217, 227, 246, 0.8)"
+      },
+      {
+        "label": "warning ",
+        "value": 681,
+        "bg":"rgba(217, 229, 43, 0.8)"
+      },
+    {
+      "label": "failed",
+      "value": 1689,
+      "bg":"rgba(237, 50, 22, 0.8)"
+    }
+  
+]
+  

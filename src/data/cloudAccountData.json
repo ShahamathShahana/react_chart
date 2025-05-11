@@ -1,0 +1,13 @@
+[
+  {
+    "label": "connected",
+    "value": 2,
+    "bg":"rgba(43, 63, 229, 0.8)"
+  },
+  {
+    "label": "not connected",
+    "value": 2,
+    "bg":"rgba(168, 195, 245, 0.8)"
+  }
+
+]

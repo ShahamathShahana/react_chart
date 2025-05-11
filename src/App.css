@@ -1,0 +1,157 @@
+
+/*
+ .App {
+  height: 160vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  gap: 2vw;
+  flex-wrap: wrap;
+  background-color: #ddd;
+}
+
+.dataCard {
+  background-color: #efefef;
+  border-radius: 0.5em;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 1em;
+}
+
+.revenueCard {
+  width: 92%;
+  height: 20rem;
+}
+
+.customerCard {
+  width: 50%;
+  height: 20rem;
+}
+
+.categoryCard {
+  width: 40%;
+  height: 20rem;
+}*/
+.cloudAccountCard{
+  background-color: #efefef;
+  border-radius: 0.1em;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 1em;
+
+} 
+.cloudAccountCategoryCard {
+  width: 11cm;
+  height: 5cm;
+}
+
+.cloudAccountRiskAssessmentCard{
+  background-color: #efefef;
+  border-radius: 0.1em;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 1em;
+}
+.cloudAccountRiskAssessmentCategoryCard {
+  width: 11cm;
+  height: 5cm;
+}
+.nameSpaceCard{
+  background-color: #efefef;
+  border-radius: 0.1em;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 1em;
+ /* display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+  */
+} 
+.nameSpaceCategoryCard {
+  width: 11cm;
+  height: 5cm;
+}
+.noChartSet{
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.nogrph{
+  width: 15cm;
+}
+.cloudAddCard{
+  
+  background-color: #efefef;
+  border-radius: 0.1em;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 1em;
+}
+.cloudAddCategoryCard {
+  width: 10cm;
+  height: 5cm;
+
+} 
+
+
+/* .header__nav__menu {
+  display: inline-block;
+  margin-right: 45px;
+} */
+.header__nav__menu ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 15px;
+  position: relative;
+}
+.header__nav__menu ul li.active a:after {
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1);
+}
+.header__nav__menu ul li:hover a:after {
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1);
+}
+.header__nav__menu ul li:hover .dropdown {
+  top: 34px;
+  opacity: 1;
+  visibility: visible;
+}
+
+.header__nav__menu ul li a {
+  font-size: 15px;
+  font-family: "Play", sans-serif;
+  display: block;
+  color: grey;
+text-decoration: none;
+  position: relative;
+  padding: 6px 0;
+}
+.header__nav__menu ul li a:after {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 2px;
+  background: #2211bc;
+  content: "";
+  -webkit-transform: scale(0);
+      -ms-transform: scale(0);
+          transform: scale(0);
+  -webkit-transition: all, 0.3s;
+  -o-transition: all, 0.3s;
+  transition: all, 0.3s;
+}
+.chart-title {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: black;
+  margin-bottom: 1rem;
+}
+
+

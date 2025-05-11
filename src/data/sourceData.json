@@ -1,0 +1,29 @@
+[
+    {
+      "label": "Critical",
+      "value": 2, 
+      "bg": "#83060B" 
+    },
+    {
+      "label": "High",
+      "value": 10, 
+      "bg": "#E30E17"
+    },
+    {
+      "label": "Medium",
+      "value": 30, 
+      "bg": "#E3750E"
+    },
+    {
+      "label": "Low",
+      "value": 515, 
+      "bg": "#F4B400" 
+    },
+    {
+      "label":"No issues",
+      "value":5, 
+      "bg": "#CDC8C3"
+    }
+  
+  ]
+  
